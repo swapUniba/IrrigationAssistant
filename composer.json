@@ -1,0 +1,8 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^4.1",
+        "kreait/firebase-php": "5.0",
+        "bugsnag/bugsnag": "^3.0",
+      "ext-json": "*"
+    }
+}
